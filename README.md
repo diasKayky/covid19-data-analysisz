@@ -2,7 +2,7 @@
 
 Análise de um dataset com informações sobre casos, mortes e recuperados de COVID-19. Projeto em desenvolvimento.
 
-Tecnologias utilizadas
+Tecnologias utilizadas:
 
 - Python
      - Pandas

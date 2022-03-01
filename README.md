@@ -7,6 +7,6 @@ Tecnologias utilizadas
 - Python
      - Pandas
      - Seaborn
- - Plotly
- - Numpy
+     - Plotly
+     - Numpy
 - SQL

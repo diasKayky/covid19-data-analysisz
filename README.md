@@ -5,8 +5,8 @@ Análise de um dataset com informações sobre casos, mortes e recuperados de CO
 Tecnologias utilizadas
 
 - Python
- - Pandas
- - Seaborn
+     - Pandas
+     - Seaborn
  - Plotly
  - Numpy
 - SQL

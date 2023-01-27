@@ -1,4 +1,4 @@
-# Dashboards em Power BI e Exploratory Data Analysis
+# Dashboards em Power BI e Exploratory Data Analyses
 
 > Análises de dados exploratórias e visualizações de dados utilizando Power BI, SQL server com objetivo de contruir dashboards interativas e sucintas.
 

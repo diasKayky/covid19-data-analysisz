@@ -1,6 +1,6 @@
 # Dashboards em Power BI e Exploratory Data Analyses
 
-> Análises de dados exploratórias e visualizações de dados utilizando Power BI e SQL server com objetivo de contruir dashboards interativas e sucintas.
+> Análises de dados exploratórias e visualizações de dados utilizando Power BI e SQL server com objetivo de construir dashboards interativas e sucintas.
 
 1. Dashboard Covid-19 | CSV para Power BI
 

@@ -1,4 +1,4 @@
-# Análise Exploratória e Descritiva de Covid-19
+# Dashboards em Power BI e Exploratory Data Analysis
 
 Análise de um dataset com informações sobre casos, mortes e recuperados de COVID-19. Projeto em desenvolvimento.
 

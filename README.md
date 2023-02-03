@@ -1,6 +1,6 @@
 # EDAs e Dashboards em Power BI
 
-> Análises de dados exploratórias e visualizações de dados utilizando Power BI com objetivo de construir dashboards interativas e sucintas.
+> Análises de dados exploratórias e visualizações de dados utilizando Power BI com objetivo de construir dashboards interativas e explicativas.
 
 1. Dashboard Covid-19 | CSV para Power BI
 2. Dashboard Transações por Cartão de Crédito - Índia | CSV para Power BI

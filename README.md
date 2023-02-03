@@ -1,4 +1,4 @@
-# Dashboards em Power BI e Exploratory Data Analyses
+# EDAs e Dashboards em Power BI
 
 > Análises de dados exploratórias e visualizações de dados utilizando Power BI com objetivo de construir dashboards interativas e sucintas.
 
